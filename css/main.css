@@ -1,6 +1,11 @@
+html,body{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
 body{
     background-color: whitesmoke;
-    margin: 0;
+    
 }
 
 header{
@@ -39,7 +44,8 @@ footer > p,a{
 article, aside, section{
     box-sizing: border-box;
     border: 1px solid black;
-    padding: 6px;
+    padding: 20px;
     width: 100%;
     height: 33.33%;
+    text-align: center;
 }

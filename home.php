@@ -1,7 +1,7 @@
 <?php
 include('header.php');
 
-echo "<article>Content</article>
+echo "<article><p>Content<p></article>
 <section>Content</section>
 <aside>Content</aside>";
 
